@@ -23,19 +23,19 @@ Fields to be extracted are:
 
 
 Fields to be extracted are: 
-    * Fixed asset :  15837
-    * Intangible assets : 9423
-    * Tangible assets : 6414
-    * Current Assets : 236,183
-    * Debtors: amounts falling due within one year : 113,831
-    * Cash at bank and in hand : 122,352
-    * Creditors: amounts falling due within one year : (110,924)
-    * Net current assets : 125,259 
-    * Net assets : 141,096
-    * Capital and reserves: -
-    * Called up share capital : 70,587
-    * Profit and loss accounts 70,509
-    * Shareholders funds : 141,096
+* Fixed asset :  15837
+* Intangible assets : 9423
+* Tangible assets : 6414
+* Current Assets : 236,183
+* Debtors: amounts falling due within one year : 113,831
+* Cash at bank and in hand : 122,352
+* Creditors: amounts falling due within one year : (110,924)
+* Net current assets : 125,259 
+* Net assets : 141,096
+* Capital and reserves: -
+* Called up share capital : 70,587
+* Profit and loss accounts 70,509
+* Shareholders funds : 141,096
 
 
 
