@@ -10,6 +10,7 @@ Problem Statement Focus: To check for NLP and Python capability to extract data 
 
 ![](sample images/sample1.png)
 
+
 ### Fields to be extracted are:
 * Current Assets : 51,700
 * Creditors: amounts falling due within one year : 55,505
@@ -19,7 +20,7 @@ Problem Statement Focus: To check for NLP and Python capability to extract data 
 * Net liabilities : (4,305)
 * Capital and reserves : (4,305)
 
-![](sample images/sample1.png)
+![](sample images/sample2.png)
 
 ### Fields to be extracted are: 
 * Fixed asset :  15837
