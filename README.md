@@ -8,7 +8,7 @@ Problem Statement Focus: To check for NLP and Python capability to extract data 
 # Sample Data to be Extracted
 * Highlighted text on the image is required to be extracted
 
-![](sample images/sample1.png)
+![]("sample images/sample1.png")
 
 
 ### Fields to be extracted are:
@@ -20,7 +20,7 @@ Problem Statement Focus: To check for NLP and Python capability to extract data 
 * Net liabilities : (4,305)
 * Capital and reserves : (4,305)
 
-![](sample images/sample2.png)
+![]("sample images/sample2.png")
 
 ### Fields to be extracted are: 
 * Fixed asset :  15837
