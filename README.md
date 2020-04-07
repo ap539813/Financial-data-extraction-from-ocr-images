@@ -8,7 +8,7 @@ Problem Statement Focus: To check for NLP and Python capability to extract data 
 # Sample Data to be Extracted
 * Highlighted text on the image is required to be extracted
 
-![]("sample images/sample1.png")
+![](sample%20images/sample1.png)
 
 
 ### Fields to be extracted are:
@@ -20,7 +20,10 @@ Problem Statement Focus: To check for NLP and Python capability to extract data 
 * Net liabilities : (4,305)
 * Capital and reserves : (4,305)
 
-![]("sample images/sample2.png")
+#### Expected Output:
+{“Current assets":"51700","Creditors:amounts falling due within one year":"-55505","Net current liabilities":"-3805","Total assets less current liabilities":"-3805","Accurals and deferred income":"-500","Net liabilities":"-4305","Capital and reserves":"-4305"}
+
+![](sample%20images/sample2.png)
 
 ### Fields to be extracted are: 
 * Fixed asset :  15837
@@ -37,6 +40,7 @@ Problem Statement Focus: To check for NLP and Python capability to extract data 
 * Profit and loss accounts 70,509
 * Shareholders funds : 141,096
 
-
+#### Expected Output:
+{"Intangible Assets":"9423","Tangible assets":"6414","Fixed assets":"nan","nan":"15837","Debtors: amounts falling due within one year":"113831","Cash at bank and in hand":"122352","Current assests":"nan","nan":"236183","Creditors: amounts tailing due within one year":"-110924","Net current assets":"125259","Net assets":"141096","Capital and reserves":"nan","Called up share capital":"70587","Profit and loss account":"70509","Shareholders’ funds":"141096"}
 
 ## Please note, data only for year 2019 is to be extracted.
