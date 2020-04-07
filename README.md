@@ -8,8 +8,9 @@ Problem Statement Focus: To check for NLP and Python capability to extract data 
 # Sample Data to be Extracted
 * Highlighted text on the image is required to be extracted
 
+![](sample images/sample1.png)
 
-Fields to be extracted are:
+### Fields to be extracted are:
 * Current Assets : 51,700
 * Creditors: amounts falling due within one year : 55,505
 * Net current liabilities : (3,805)
@@ -18,11 +19,9 @@ Fields to be extracted are:
 * Net liabilities : (4,305)
 * Capital and reserves : (4,305)
 
+![](sample images/sample1.png)
 
-
-
-
-Fields to be extracted are: 
+### Fields to be extracted are: 
 * Fixed asset :  15837
 * Intangible assets : 9423
 * Tangible assets : 6414
