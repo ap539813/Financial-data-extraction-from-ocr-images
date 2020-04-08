@@ -3,6 +3,7 @@ This project contains a deterministic approach to extract the financial tables f
 Problem Statement Focus: To check for NLP and Python capability to extract data elements from the financial statement documents.
 
 # My score was 205 out of 500 and that was 4th place
+![](sample%20images/hcl_score.png)
 
 # Data to be provided – 
 * Training & Development Set - 500 Text files (OCR output of images)
